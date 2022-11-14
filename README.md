@@ -4,11 +4,7 @@
 - 📌 Etec de Guaianases
 - 📨 E-mail: kauesccp50@gmail.com
 
- <div>
-  <a href="https://github.com/rodrigueszk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigueszk&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigueszk&layout=compact&langs_count=16&theme=dark"/>
-</div>
+
  
  </div>
 <div style="display: inline_block"><br>
